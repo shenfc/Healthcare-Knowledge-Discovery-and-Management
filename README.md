@@ -1,1 +1,1 @@
-# Healthcare-Knowledge-Discovery-and-Management
+# Workshops
